@@ -1,2 +1,2 @@
 echo "Welcome to demoproject"
-echo "Github SCM updated "
+echo " Github SCM updated "
